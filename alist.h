@@ -1,6 +1,6 @@
 /*===============================================================================
  *
- * list.h - A very simple header only library for dynamic arrays/lists in C.
+ * alist.h - A very simple header only library for dynamic arrays/lists in C.
  * 
  * LICENSE : MIT License
  *
